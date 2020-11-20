@@ -39,4 +39,4 @@ is there an exercise? It's just a new approach to think about how to group multi
 
 1. `yarn test:watch` => runs all the tests in watch mode
 
-2. `yarn test:select` => runs only in the \*.test.js selected test
+2. `yarn test:select` => runs only in the \*.test.js selected test with F5
